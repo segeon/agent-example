@@ -19,6 +19,7 @@ public class Main {
             } catch (IOException e) {
                 e.printStackTrace();
             }
+
             i++;
             try {
                 Thread.sleep(100);
